@@ -1,0 +1,7 @@
+cluster,cell_type,n_cells,top_markers
+0,CD4+ T cells,1190,"LDHB, RPS12, RPS25, RPS27, RPS3"
+1,B cells,341,"CD74, CD79A, HLA-DRA, CD79B, HLA-DPB1"
+2,CD14+ Monocytes,640,"FTL, FTH1, TYROBP, CST3, LYZ"
+3,Platelets,12,"SDPR, GNG11, HIST1H2AC, PF4, PPBP"
+4,NK cells,419,"NKG7, CST7, GZMA, CTSW, B2M"
+5,Dendritic cells,36,"HLA-DPA1, HLA-DPB1, HLA-DRA, HLA-DRB1, CD74"
